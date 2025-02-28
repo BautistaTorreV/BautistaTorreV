@@ -1,9 +1,8 @@
 ### <h1 align="center">Hola, soy Bautista Torre Vanoni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">📌 Estudiante de Ingeniería en Sistemas | Desarrollo de Software y Gestión de la Información</h3>
+<h3 align="center">⚡ Estudiante de Ingeniería en Sistemas | Desarrollo de Software y Gestión de la Información ⚡</h3>
 
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+en+formación;Desarrollo+de+Software;Gestión+de+Información;Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+en+formación;Desarrollo+de+Software;Gestión+de+Información;Siempre+aprendiendo+nuevas+tecnologías&center=true&vCenter=true&width=1000&height=80"></a>
 
 <img align="right" width=300px alt="Coding" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" />
 
