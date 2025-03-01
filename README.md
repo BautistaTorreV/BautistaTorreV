@@ -66,21 +66,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🔥 Conéctate conmigo
+## 🔌🔥 Conéctate conmigo
 
 <p align="center">
   <a href="https://linkedin.com/in/bautista-torre-vanoni" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="80"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:bautistatorre99@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" width="50" height="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" width="60" height="60"/>
   </a>
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Spotify](https://novatorem-amber-chi.vercel.app/api/spotify)](https://open.spotify.com/user/x5kkvfffzy1bx7wz7181uhhej)
-✨ **¡Gracias por visitar mi perfil!** ✨
+<p align="center">
+  <a href="https://open.spotify.com/user/x5kkvfffzy1bx7wz7181uhhej">
+    <img src="https://novatorem-amber-chi.vercel.app/api/spotify/?background_color=1e1e1e&border_color=ffffff" alt="Spotify Now Playing">
+  </a>
+</p>
+
+<p align="center">✨ <b>¡Gracias por visitar mi perfil!</b> ✨</p>
+
+
