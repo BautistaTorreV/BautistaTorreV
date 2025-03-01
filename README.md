@@ -3,7 +3,7 @@
 
 <h3 align="center">⚡ Estudiante de Ingeniería en Sistemas | Desarrollo de Software y Gestión de la Información ⚡</h3>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+de+Información;Desarrollo+de+Software;Gestión+de+Información;Siempre+aprendiendo+nuevas+tecnologías&center=true&vCenter=true&width=1000&height=80"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+en+formación;Desarrollo+de+Software;Gestión+de+Información;Siempre+aprendiendo+nuevas+tecnologías&center=true&vCenter=true&width=1000&height=80"></a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
