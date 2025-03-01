@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=header"/>
- <h1 align="center">Hola, soy Bautista Torre Vanoni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Bautista Torre Vanoni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">⚡ Estudiante de Ingeniería en Sistemas | Desarrollo de Software y Gestión de la Información ⚡</h3>
+<h3 align="center">⚡ Systems Engineering Student | Software Development & Information Management ⚡</h3>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+en+formación;Desarrollo+de+Software;Gestión+de+Información;Siempre+aprendiendo+nuevas+tecnologías&center=true&vCenter=true&width=1000&height=80"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;Software+Development;Information+Management;Always+learning+new+technologies&center=true&vCenter=true&width=1000&height=80"></a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="700" height="200"/>
@@ -13,22 +13,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> Sobre mí
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> About Me
 
-🔹 **Estudiante de 4to año de Ingeniería en Sistemas en la UTN Buenos Aires**. Me especializo en **administración y desarrollo de producto software**, con un enfoque en la **gestión de la información** y soluciones tecnológicas innovadoras.
+🔹 **4th-year Systems Engineering student at UTN Buenos Aires**. I specialize in **software product administration and development**, with a focus on **information management** and innovative technological solutions.
 
-🔹 Me interesa trabajar en **empresas y proyectos colaborativos**, donde pueda aplicar mis conocimientos técnicos junto con mis **habilidades blandas**, como la comunicación, trabajo en equipo, adaptabilidad y liderazgo.
+🔹 I am interested in working on **collaborative companies and projects**, where I can apply my technical knowledge along with my **soft skills**, such as communication, teamwork, adaptability, and leadership.
 
-🔹 Siempre en constante aprendizaje, explorando **metodologías Agile, diseño de producto y análisis de datos**.
+🔹 Constantly learning, exploring **Agile methodologies, product design, and data analysis**.
 
-🔹 Actualmente, estoy buscando oportunidades para desarrollar soluciones tecnológicas con impacto tangible en la vida de las personas. 🚀
+🔹 Currently looking for opportunities to develop technological solutions that create a tangible impact on people's lives. 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">  Tecnologías y Herramientas
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">  Technologies & Tools
 
-### **📌 Lenguajes de Programación**
+### **📌 Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### **💻 Frameworks y Herramientas**
+### **💻 Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### **🌐 Tecnologías Web**
+### **🌐 Web Technologies**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -60,7 +60,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estadísticas de GitHub
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BautistaTorreV&show_icons=true&theme=algolia" height="192px"/>
@@ -69,7 +69,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🔌🔥 Conéctate conmigo
+## 🔌🔥 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/bautista-torre-vanoni" target="_blank">
@@ -92,6 +92,7 @@
     <img src="https://novatorem-amber-chi.vercel.app/api/spotify/?background_color=1e1e1e&border_color=4169E1" alt="Spotify Now Playing">
   </a>
 </p>
+
 
 
 
