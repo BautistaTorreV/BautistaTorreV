@@ -5,6 +5,10 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+en+formación;Desarrollo+de+Software;Gestión+de+Información;Siempre+aprendiendo+nuevas+tecnologías&center=true&vCenter=true&width=1000&height=80"></a>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="700" height="200"/>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
