@@ -82,5 +82,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
+[![Spotify](https://novatorem-amber-chi.vercel.app/api/spotify)](https://open.spotify.com/user/x5kkvfffzy1bx7wz7181uhhej)
 ✨ **¡Gracias por visitar mi perfil!** ✨
