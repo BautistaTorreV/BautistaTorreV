@@ -76,7 +76,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:bautistatorre99@gmail.com">
+  <a href="mailto:bautistatorre9@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" width="60" height="60"/>
   </a>
 </p>
