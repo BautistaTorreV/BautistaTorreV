@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Tecnologías y Herramientas
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">  Tecnologías y Herramientas
 
 ### **📌 Lenguajes de Programación**
 <p align="left">
@@ -66,12 +66,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
 ## 🔥 Conéctate conmigo
-<p align="left">
-<a href="https://linkedin.com/in/bautista-torre-vanoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="bautista-torre-vanoni" height="30" width="40" /></a>
-<a href="mailto:bautistatorre99@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/bautista-torre-vanoni" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="80"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bautistatorre99@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" width="50" height="80"/>
+  </a>
 </p>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
