@@ -5,7 +5,6 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+en+formación;Desarrollo+de+Software;Gestión+de+Información;Siempre+aprendiendo+nuevas+tecnologías&center=true&vCenter=true&width=1000&height=80"></a>
 
-<img align="right" width=300px alt="Coding" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -81,11 +80,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="70" height="70" />
+</p>
+
+<p align="center">
   <a href="https://open.spotify.com/user/x5kkvfffzy1bx7wz7181uhhej">
-    <img src="https://novatorem-amber-chi.vercel.app/api/spotify/?background_color=1e1e1e&border_color=ffffff" alt="Spotify Now Playing">
+    <img src="https://novatorem-amber-chi.vercel.app/api/spotify/?background_color=1e1e1e&border_color=4169E1" alt="Spotify Now Playing">
   </a>
 </p>
 
-<p align="center">✨ <b>¡Gracias por visitar mi perfil!</b> ✨</p>
 
 
