@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=header"/>
 <h1 align="center">Hello, I'm Bautista Torre Vanoni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">⚡ Systems Engineering Student | Software Development & Information Management ⚡</h3>
+<h3 align="center">  Systems Engineering Student | Software Development & Information Management. </h3>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;Software+Development;Information+Management;Always+learning+new+technologies&center=true&vCenter=true&width=1000&height=80"></a>
 
