@@ -89,11 +89,6 @@
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="70" height="70" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
 </p>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/x5kkvfffzy1bx7wz7181uhhej">
-    <img src="https://novatorem-amber-chi.vercel.app/api/spotify/?background_color=1e1e1e&border_color=4169E1" alt="Spotify Now Playing">
-  </a>
-</p>
 
 
 
