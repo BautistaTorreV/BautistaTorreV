@@ -15,11 +15,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> About Me
 
-🔹 **4th-year Systems Engineering student at UTN Buenos Aires**. I specialize in **software product administration and development**, with a focus on **information management** and innovative technological solutions.
+🔹 **4th-year Systems Engineering student at UTN Buenos Aires**. I specialize in **software design and development**, with a focus on **information management** and innovative technological solutions.
 
 🔹 I am interested in working on **collaborative companies and projects**, where I can apply my technical knowledge along with my **soft skills**, such as communication, teamwork, adaptability, and leadership.
 
-🔹 Constantly learning, exploring **Agile methodologies, product design, and data analysis**.
+🔹 Constantly learning, exploring **Agile methodologies, AI technology, and data analysis**.
 
 🔹 Currently looking for opportunities to develop technological solutions that create a tangible impact on people's lives. 🚀
 
