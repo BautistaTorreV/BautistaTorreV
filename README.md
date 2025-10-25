@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" /> About Me
+## About Me
 
 🔹 **4th-year Systems Engineering student at UTN Buenos Aires**. I specialize in **software design and development**, with a focus on **information management** and innovative technological solutions.
 
