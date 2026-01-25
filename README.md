@@ -15,7 +15,7 @@
 
 ## About Me
 
-🔹 **4th-year Systems Engineering student at UTN Buenos Aires**. I specialize in **software design and development**, with a focus on **information management** and innovative technological solutions.
+🔹 **5th-year Systems Engineering student at UTN Buenos Aires**. I specialize in **software design and development**, with a focus on **information management** and innovative technological solutions.
 
 🔹 I am interested in working on **collaborative companies and projects**, where I can apply my technical knowledge along with my **soft skills**, such as communication, teamwork, adaptability, and leadership.
 
